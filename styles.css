@@ -1,0 +1,35 @@
+h2{
+    color:rgb(243, 245, 248);
+    text-align:center;
+    border:5px solid rgba(104, 214, 219, 0.7);
+    cursor: pointer;
+    
+}
+
+p{
+    color:brown;
+    background-color: #fff;
+    padding:20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+body {
+    background-image:url(https://media.istockphoto.com/id/2198211151/photo/vivid-orange-marigold-field-in-full-bloom-during-sunny-day-in-india.jpg?s=612x612&w=0&k=20&c=QJTqjy-AXxxNXxnVEUz7x1vbwkHm5GLYEv04Nf6uKVM=);
+    background-size: cover;
+
+}
+ul{
+    display: flex;
+    gap:30px
+}
+
+
+
+li{
+    list-style: none;
+    color: #fff;
+    
+}
+a{
+    color: #fff;
+}
