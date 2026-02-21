@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+img{
+    height: 450px;
+    width: 450px;
+    margin:10px;
+    transition: all 1s;
+
+}
+img:hover{
+    transform: scale(1.1);
+}
+
+h2{
+    font-size: 40px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px;
+    box-shadow:4px 8px 4px blue;
+    background-image: url(https://t3.ftcdn.net/jpg/06/27/85/70/360_F_627857071_bREuJgK1MTU5YcTPTfgJPOYZ86F1l421.jpg);
+}
